@@ -1,0 +1,3 @@
+lstm/BasicLSTMCell/biases (DT_FLOAT) [2048]
+lstm/BasicLSTMCell/weights (DT_FLOAT) [1024,2048]
+
